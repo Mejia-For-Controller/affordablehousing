@@ -25,7 +25,8 @@ const ActiveLink = ({ children, activeClassName, ...props }) => {
 
   return (
     // @ts-ignore: Unreachable code error
-    <Link {...props}>
+    <Link {...props}
+    >
       {React.cloneElement(child, {
         className: className || null,
       })}
