@@ -38,6 +38,8 @@ function Payroll() {
 <meta property="og:title"              content="Affordable Housing Covenants - 2010 to May 2021 | Map" />
 <meta property="og:description"        content="Browse and Search Affordable Housing in Los Angeles" />
 <meta property="og:image"              content="https://data.mejiaforcontroller.com/affordablehousingpic.png" />
+
+<script defer={true} src="https://helianthus.mejiaforcontroller.com/index.js"></script>
     </Head>
     <div suppressHydrationWarning={true} className='height100'>
       <React.StrictMode>
