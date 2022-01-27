@@ -13,9 +13,6 @@ import { BellIcon, MenuIcon, XIcon } from '@heroicons/react/outline'
 import TagManager from 'react-gtm-module'
 //import TableauEmbed from './tableau'
 
-import Navbar from '../components/navbar'
-//import {Budget} from './budget'
-
 import {
   BrowserRouter as Router,
   HashRouter,
